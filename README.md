@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![xylophone_app](https://github.com/raj-prog/xylophone_flutter/blob/master/img/xylophone-flutter.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
